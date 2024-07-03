@@ -12,7 +12,7 @@ I'm here to turn imagination into innovation through coding.
 - 🌱 I’m currently learning advanced deep learning techniques
 - 👯 I’m looking to collaborate on ML and full stack development projects
 - 💬 Ask me about Python, Machine Learning, and Full Stack Development
-- 📫 How to reach me: [poojithareddy2662004@gmail.com](mailto:poojithareddy2662004@gmail.com)
+- 📫 How to reach me: [jayadeepreddy452002@gmail.com](mailto:poojithareddy2662004@gmail.com)
 - ⚡ Fun fact: I love coding and solving complex problems
 
 ## 🛠️ Skills
@@ -57,9 +57,9 @@ I'm here to turn imagination into innovation through coding.
 
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devireddy-poojithareddy-6253a8277)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poojithareddy2662004@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Poojitha_No1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayadeep-reddy-6aa384230)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayadeepreddy452002@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/JAYADEEPREDDY45/)
 
 <!-- Add more badges as needed -->
 
